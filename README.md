@@ -1,7 +1,7 @@
 # Hello Word, eu sou o Gustavo 
 Estudante de D.S (desenvolvimento de sistemas) da escola ETEC pref Alberto Feres, tenho quinze anos e todo dia tentando melhorar.
 <br>
-Estudandno java Script.
+Estudando java Script.
 
  </div>
 <br>
