@@ -1,5 +1,7 @@
 # Hello Word, eu sou o gustavo 
 Estudante de D.S (desenvolvimento de sistemas) da escola ETEC pref Alberto Feres. Todo dia tentando melhorar.
+<br>
+Estudandno java Script.
 
  </div>
 <br>
