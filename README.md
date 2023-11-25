@@ -1,7 +1,7 @@
 # Hello World, eu sou o Gustavo 
-Estudante de D.S (desenvolvimento de sistemas) da escola ETEC pref Alberto Feres, tenho quinze anos e todo dia tentando melhorar.
+Estudante de D.S (desenvolvimento de sistemas) da escola ETEC pref Alberto Feres, tenho 16 anos e todos os dias tentando melhorar.
 <br>
-Estudando Java Script.
+futuro programador de softwares.
 
  </div>
 <br>
